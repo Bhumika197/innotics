@@ -206,6 +206,31 @@ body{
 	top: 900px;
 	align-items: center;
 }
+.comp-txt{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	width: 950px;
+}
+.title-comps{
+	font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size: 32px;
+	line-height: 24px;
+	letter-spacing: 0%;
+}
+.comp-para{
+	position: absolute;
+	top: 50px;
+	left: 0px;
+	font-family: "Inter", sans-serif;
+  	font-optical-sizing: auto;
+  	font-weight: 300;
+  	font-style: italic;
+	font-size: 18px;
+	line-height: 28px;
+}
 .arduino{
 	position: relative;
 	left: 200px;
@@ -542,10 +567,36 @@ body{
 	height: 235px;
 	border-radius: 12px;
 }
+
+.project-title{
+	position: absolute;
+	left: 100px;
+	top: 30px;
+	font-size: 36px;
+	line-height: 28px;
+	font-family: "Stick No Bills", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 800;
+	font-style: normal;
+	color: white;
+}
+.project-txt{
+	position: absolute;
+	top: 110px;
+	left: 100px;
+	width: 590px;
+	color: white;
+	font-family: "Prompt", sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 14px;
+	line-height: 22px;
+	letter-spacing: 3%;
+}
 .build-now-btn{
 	position: absolute;
 	left: 540px;
-	top: 230px;
+	top: 250px;
 	width: 175px;
 	height: 46px;
 	color: black;
@@ -567,6 +618,7 @@ body{
 	text-decoration: none;
 	color: #18006B;
 }
+
 /* footer */
 .progressia-llc- {
   	position: absolute;
