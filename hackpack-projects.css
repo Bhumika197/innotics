@@ -1,3 +1,9 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
 body{
     background-color:#DDE5FF; 
     margin: 0.0001px;
@@ -67,6 +73,7 @@ body{
 	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     background: linear-gradient(to bottom, #000018, #0000ff);
     -webkit-background-clip: text;
+	
     -webkit-text-fill-color: transparent;
 	-webkit-box-reflect: none;
 }
